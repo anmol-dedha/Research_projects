@@ -1,2 +1,2 @@
-# Economy_of_Singapore
-Research Report on Economy of Singapore 2022- Major Sectors And there Performance
+# Research_projects
+In this repository you will find all my Research projects.
